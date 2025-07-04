@@ -1,0 +1,15 @@
+[project]
+name = "thevoices"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [{ name = "Tim Jagenberg", email = "tim@jagenberg.info" }]
+requires-python = ">=3.13"
+dependencies = ["fastmcp>=2.9.2", "litellm>=1.73.6"]
+
+[project.scripts]
+thevoices = "thevoices.__main__:run"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
