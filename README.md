@@ -17,8 +17,8 @@ For example in Zed:
   "TheVoices": {
     "source": "custom",
     "command": {
-      "path": "uvx thevoices",
-      "args": [],
+      "path": "uvx",
+      "args": ["https://git.jagenberg.info/tim/TheVoices.git"],
       "env": {
         "LITELLM_MODEL": "openai/gpt-4.1",
         "ANTHROPIC_API_KEY": "YOUR_API_KEY",
