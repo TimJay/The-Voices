@@ -59,3 +59,7 @@ ask_the_voice(
 - FastMCP 2.9.2+
 - LiteLLM 1.73.6+
 - Valid API keys for at least one LLM provider
+
+## License
+
+This project is licensed under the Eclipse Public License 2.0. See the [EPL-2.0.txt](EPL-2.0.txt) file for details.
