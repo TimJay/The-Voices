@@ -2,6 +2,12 @@
 
 A FastMCP server providing role-based AI assistant tools for specialized AI personas and LLM model discovery.
 
+## GitHub is only Mirror
+
+This GitHub repository is a read-only mirror. For issues, bug reports, feature requests, and contributions, please visit the main repository at:
+
+**https://git.jagenberg.info/tim/TheVoices**
+
 ## Features
 
 - **Model Discovery**: Auto-detect available LLM models based on API keys
